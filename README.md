@@ -57,5 +57,19 @@
    * การหาค่าต่าง ๆ ของ K-Itemsets
    * The Apriori Algorihm
    * ตัวอย่าง The Apriori Algorihm
-   *  
+* บทที่ 8 [Classification:Basic Concepts](https://github.com/Umaporn19/DWDM21/blob/main/%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%20Chapter%208%20%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%95%E0%B8%B4%E0%B8%A1.pdf) 
+   * ลักษณะการสร้างโมเดลแบบมีผู้สอน 
+   * ลักษณะการสร้างโมเดลแบบไม่มีผู้สอน
+   * การทำนายปัญหา ระหว่าง Classification กับ การใช้ ทำนายตัวเลข
+   * การสร้างโมเดลแบบจำลอง
+   * Decision Tree ต้นไม้ตัดสินใจ
+   * หลักการสร้างตาราง
+   * ตัวอย่างในการหาค่าต่าง ๆ 
+   * Gini Index
+   * การหาค่า Gini
+   * Naive Bayes Classfier 
+   * Linear Regreesion 
+   * 
+        
+    
 
