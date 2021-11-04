@@ -42,4 +42,20 @@
    * เพราะเหตุใดข้อมูลจึงไม่สมบูรณ์
    * ตัวเลือกในการจัดการกับค่า Missing
 * บทที่ 4 [Data Warehousing and On-line Anaalytical Processing](https://github.com/Umaporn19/DWDM21/blob/main/%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%20Chapter%204%20%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%95%E0%B8%B4%E0%B8%A1.pdf)
+   * Data Warehousing คืออะไร
+   * OLTP & OLAP
+   * ทำไมถึงต้องแยก Data Warehousing
+   * โมเดล ทั้ง 3 แบบของ Data Warehousing
+   * Meta Data
+   * การสร้างแบบจำลองแนวคิดของ Data Warehousing ว่ามีแบบไหนบ้าง แต่ละแบบเป็นอย่างไร
+   * ลักษณะข้อมูลในหลายมิติเป็นอย่างไร
+   * การใช้ data warehouse ทั้งหมด 3 ประเภท 
+* บทที่ 6 [Mining Frequent Patterns, Association and Correlations:Basic Concepts and Methods](https://github.com/Umaporn19/DWDM21/blob/main/%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%20Chapter%206%20%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%95%E0%B8%B4%E0%B8%A1.pdf)
+   * Basic Concepts
+   * Patterns หมายถึงอะไร ทำไมมันถึงสำคัญ
+   * ตัวอย่าง K-Itemsets
+   * การหาค่าต่าง ๆ ของ K-Itemsets
+   * The Apriori Algorihm
+   * ตัวอย่าง The Apriori Algorihm
+   *  
 
