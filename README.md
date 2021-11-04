@@ -169,7 +169,50 @@
   * สร้าง model ทำนาย
   * Train - Test
   * Evalution 
+* บทที่ 8 [Chap_8_Clustering)](https://github.com/Umaporn19/DWDM21/blob/main/Chap_8_Clustering.ipynb)
+  * K-means
+  * Generat Data
+  * Explole data
+  * Clustering
+  * ตัวอย่าง
+  * นับจำนวนสี
+  * จัดกลุ่มสีให้เหลือ 16 สี
+  * แปลงข้อมูลให้อยู่ในรูป row-column
+  * ใช้ centroid เป็นตัวแทนของสี
+  * แทนสีคืนลงไป
+  * Hierachical Clustering
+  * Clustering Evaluation
+* Data_Visualization [Data_Visualization)](https://github.com/Umaporn19/DWDM21/blob/main/Data_Visualization.ipynb)
+  * Visuliazation
+  * Scatter plot
+  * Plot
+  * ควิซกลุ่ม
+  * Bar chart
+  * Stacked Barchart
+  * Histrogram
+* Distance_Numpy [Distance_Numpy](https://github.com/Umaporn19/DWDM21/blob/main/Distance_Numpy.ipynb)
+  * Numpy Array
+  * สร้าง numpy array
+  * สร้าง matrix เริ่มต้น (zeros,ones)
+  * สร้าง matrix random ค่าเเบบมั่ว ๆ
+  * matrix transpose
+  * Indexing & Slicing
+  * Useful Function
+  * วนลูปเอง
+  * Summation
+  * Quiz กลุ่ม
+  * Distance Matrix
+  * Euclidean Distance (L2-norm)
+  * คำนวณระยะห่าง dist(P1,P2)
+  * คำนวณระยะห่าง dist(P2,P4)
+  * Distance function
+  * Quiz 6
+  * การบ้านครั้งที่ 11
+  * Distance of Binary Value
 
+
+
+ 
 
  
         
