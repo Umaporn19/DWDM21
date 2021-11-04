@@ -133,6 +133,44 @@
   * การบ้าน + ควิซ
   * [PD] save ตารางเอาไปใช้ที่อื่น
   * [PD] การสร้างตาราง
+* บทที่ 6 [Chapter_6_Association_Rules)](https://github.com/Umaporn19/DWDM21/blob/main/Chapter_6_Association_Rules.ipynb)
+  * ลบ records ที่ถูก cancel ออกไป
+  * การบ้านครั้งที่ 13 วาดกราฟสรุปจำนวน items และ ยอดขายของแต่ละประเทศ
+  * เตรียม Data สำหรับ (Fequence Pattern) Association Rule
+  * Apriori
+  * (Quiz 7) 
+* บทที่ 7 [Chapter7_Classification_(Decision_Tree)](https://github.com/Umaporn19/DWDM21/blob/main/Chapter7_Classification_(Decision_Tree).ipynb)
+  * Load Data
+  * train (ฝึกสอนตัวแบบ)
+  * plot tree
+  * Evaluation
+  * Random
+  * Advanced Tree
+  * TEST
+  * Start here
+  * Train - Test
+  * Train - Validation
+  * การบ้านครั้งที่ 16
+* บทที่ 7 [Chap7_Classification_(KNN_NN)](https://github.com/Umaporn19/DWDM21/blob/main/Chap7_Classification_(KNN_NN).ipynb)
+  * Load data
+  * Split Data
+  * Train Model
+  * knn1
+  * knn2
+  * knn3
+  * Retrain & Evaluate
+  * Neural Network
+  * Train - Test
+  * ANN 2
+  * ANN 3 
+* บทที่ 7 [Chapter_7_Classification_(Evaluation)](https://github.com/Umaporn19/DWDM21/blob/main/Chapter_7_Classification_(Evaluation).ipynb)
+  * Load data
+  * แบ่ง data
+  * สร้าง model ทำนาย
+  * Train - Test
+  * Evalution 
+
+
  
         
     
