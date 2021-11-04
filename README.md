@@ -15,7 +15,7 @@
 
 ## **สารบัญเนื้อหา**
 
-* บทที่ 1 [Introduction](https://github.com/Umaporn19/DWDM21/blob/main/%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%20Chapter%201.pdf)
+* สรุปเนื้อหาบทที่ 1 [Introduction](https://github.com/Umaporn19/DWDM21/blob/main/%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%20Chapter%201.pdf)
   * Data Warehouse คืออะไร
   * Data Mining คืออะไร 
   * ทำไมต้องทำ Data Mining
@@ -25,23 +25,23 @@
   * ขั้นตอนการทำข้อมูล
   * หัวข้อที่จะเรียน
   
-* บทที่ 2 [Getting to Know Your Data](https://github.com/Umaporn19/DWDM21/blob/main/%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%20Chapter%202.pdf)
+* สรุปเนื้อหาบทที่ 2 [Getting to Know Your Data](https://github.com/Umaporn19/DWDM21/blob/main/%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%20Chapter%202.pdf)
   * ลักษณะภาพว่าแต่ละมิติแตกต่างกันอย่างไร
   * ลักษณะข้อมูล EX ข้อมูลเป้นกราฟ , วิดีโอ
   * ชนิดของข้อมูล
   * คุณสมบัติที่สำคัญ
   * ชนิดของ Attribute
   * การนำค่าสถิติเข้ามาเกี่ยวข้อง    
-*  บทที่ 2 [Getting to Know Your Data เพิ่มเติม](https://github.com/Umaporn19/DWDM21/blob/main/%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%20Chapter%202%20(%E0%B8%95%E0%B9%88%E0%B8%AD).pdf)
+*  สรุปเนื้อหาบทที่ 2 เพิ่มเติม [Getting to Know Your Data เพิ่มเติม](https://github.com/Umaporn19/DWDM21/blob/main/%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%20Chapter%202%20(%E0%B8%95%E0%B9%88%E0%B8%AD).pdf)
     * สูตรในการคำนวณต่าง ๆ
-*  บทที่ 3 [Data Preprocessing](https://github.com/Umaporn19/DWDM21/blob/main/%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%20Chapter%203.pdf)
+*  สรุปเนื้อหาบทที่ 3 [Data Preprocessing](https://github.com/Umaporn19/DWDM21/blob/main/%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%20Chapter%203.pdf)
    * Data Preprocessing คืออะไร
    * ขั้นตอนในการทำ Data Preprocessing
    * ทำไมถึงต้องทำ Data Preprocessing
    * Data Cleaning คืออะไร
    * เพราะเหตุใดข้อมูลจึงไม่สมบูรณ์
    * ตัวเลือกในการจัดการกับค่า Missing
-* บทที่ 4 [Data Warehousing and On-line Anaalytical Processing](https://github.com/Umaporn19/DWDM21/blob/main/%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%20Chapter%204%20%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%95%E0%B8%B4%E0%B8%A1.pdf)
+* สรุปเนื้อหาบทที่ 4 [Data Warehousing and On-line Anaalytical Processing](https://github.com/Umaporn19/DWDM21/blob/main/%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%20Chapter%204%20%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%95%E0%B8%B4%E0%B8%A1.pdf)
    * Data Warehousing คืออะไร
    * OLTP & OLAP
    * ทำไมถึงต้องแยก Data Warehousing
@@ -50,14 +50,14 @@
    * การสร้างแบบจำลองแนวคิดของ Data Warehousing ว่ามีแบบไหนบ้าง แต่ละแบบเป็นอย่างไร
    * ลักษณะข้อมูลในหลายมิติเป็นอย่างไร
    * การใช้ data warehouse ทั้งหมด 3 ประเภท 
-* บทที่ 6 [Mining Frequent Patterns, Association and Correlations:Basic Concepts and Methods](https://github.com/Umaporn19/DWDM21/blob/main/%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%20Chapter%206%20%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%95%E0%B8%B4%E0%B8%A1.pdf)
+* สรุปเนื้อหาบทที่ 6 [Mining Frequent Patterns, Association and Correlations:Basic Concepts and Methods](https://github.com/Umaporn19/DWDM21/blob/main/%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%20Chapter%206%20%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%95%E0%B8%B4%E0%B8%A1.pdf)
    * Basic Concepts
    * Patterns หมายถึงอะไร ทำไมมันถึงสำคัญ
    * ตัวอย่าง K-Itemsets
    * การหาค่าต่าง ๆ ของ K-Itemsets
    * The Apriori Algorihm
    * ตัวอย่าง The Apriori Algorihm
-* บทที่ 8 [Classification:Basic Concepts](https://github.com/Umaporn19/DWDM21/blob/main/%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%20Chapter%208%20%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%95%E0%B8%B4%E0%B8%A1.pdf) 
+* สรุปเนื้อบทที่ 8 [Classification:Basic Concepts](https://github.com/Umaporn19/DWDM21/blob/main/%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%20Chapter%208%20%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%95%E0%B8%B4%E0%B8%A1.pdf) 
    * ลักษณะการสร้างโมเดลแบบมีผู้สอน 
    * ลักษณะการสร้างโมเดลแบบไม่มีผู้สอน
    * การทำนายปัญหา ระหว่าง Classification กับ การใช้ ทำนายตัวเลข
@@ -69,7 +69,35 @@
    * การหาค่า Gini
    * Naive Bayes Classfier 
    * Linear Regreesion 
-   * 
+  
+  
+  ## สารบัญในส่วน Github
+  
+* บทที่ 2 [Data101(Chapter2)](https://github.com/Umaporn19/DWDM21/blob/main/Data101(Chapter2).ipynb)
+  * ไฟล์ .csv (cav คือ comma separated values) เป็นไฟล์หลักที่เราได้ใช้เรียนกันในวิชานี้
+  * Basic Python
+  * Casting int () float () str ()
+  * Data Structure 
+  * วิธีสร้าง list ว่าง
+  * เติมค่าลงไปใน list ใช้ (.append)
+  * การชี้ค่าใน list (indexing)
+  * list slicing การตัดลิสต์
+  * [จุดเริ่มต้น:จุดสุดท้าย :step]
+  * list + list
+  * format string
+  * Loop
+  * Nested loop ลูบซ้อนลูบ
+  * Condition (if statement)
+  * Quiz 1 หา max
+  * เฉลย Quiz 1
+  * การบ้านที่ 3 หาเกรด
+  * Function
+  * ลักณะตัวอย่าง (ไม่มี input)
+  * ลักษณะตัวอย่างที่ (ไม่มี output)
+  * ลักษณะตัวอย่าง (ไม่มี input และ output)
+  * ลักษณะของ input (พารามิเตอร์)
+  * Quiz ครั้งที่ 2 (27 ก.ค. 64)
+  
         
     
 
