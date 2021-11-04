@@ -11,4 +11,4 @@ Data Warehouse &amp; Data Mining 2021
 4. **นางสาวสุภาวดี       คำทุย**
 5. **นางสาวพลอยบงกช   แสงโทโพธิ์**
 
-![grading].(DWDM21.JPG)
+
