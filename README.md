@@ -1,10 +1,10 @@
 # DWDM21
-Data Warehouse &amp; Data Mining 2021
+# **Data Warehouse &amp; Data Mining 2021**
 
-อุมาพร คำภิชัย 623020547-0
+### ชื่อ : **อุมาพร คำภิชัย 623020547-0**
 
-**กลุ่ม เทเลทับบี้**
-
+#### **กลุ่ม เทเลทับบี้**
+#### **สมาชิกในกลุ่ม**
 1. **นางสาวอุมาพร       คำภิชัย**
 2. **นางสาวภัทรสร       เทพบุตร**
 3. **นางสาวสุพิชญา      ตั้งกิจวานิชย์**
@@ -12,3 +12,34 @@ Data Warehouse &amp; Data Mining 2021
 5. **นางสาวพลอยบงกช   แสงโทโพธิ์**
 
 ![grading](DWDM21.jpg)
+
+## **สารบัญเนื้อหา**
+
+* บทที่ 1 [Introduction](https://github.com/Umaporn19/DWDM21/blob/main/%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%20Chapter%201.pdf)
+  * Data Warehouse คืออะไร
+  * Data Mining คืออะไร 
+  * ทำไมต้องทำ Data Mining
+  * ตัวอย่างข้อมูล
+  * การเรียกชื่ออื่น ๆ 
+  * ลักษณะภาพรวม
+  * ขั้นตอนการทำข้อมูล
+  * หัวข้อที่จะเรียน
+  
+* บทที่ 2 [Getting to Know Your Data](https://github.com/Umaporn19/DWDM21/blob/main/%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%20Chapter%202.pdf)
+  * ลักษณะภาพว่าแต่ละมิติแตกต่างกันอย่างไร
+  * ลักษณะข้อมูล EX ข้อมูลเป้นกราฟ , วิดีโอ
+  * ชนิดของข้อมูล
+  * คุณสมบัติที่สำคัญ
+  * ชนิดของ Attribute
+  * การนำค่าสถิติเข้ามาเกี่ยวข้อง    
+*  บทที่ 2 [Getting to Know Your Data เพิ่มเติม](https://github.com/Umaporn19/DWDM21/blob/main/%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%20Chapter%202%20(%E0%B8%95%E0%B9%88%E0%B8%AD).pdf)
+    * สูตรในการคำนวณต่าง ๆ
+*  บทที่ 3 [Data Preprocessing](https://github.com/Umaporn19/DWDM21/blob/main/%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%20Chapter%203.pdf)
+   * Data Preprocessing คืออะไร
+   * ขั้นตอนในการทำ Data Preprocessing
+   * ทำไมถึงต้องทำ Data Preprocessing
+   * Data Cleaning คืออะไร
+   * เพราะเหตุใดข้อมูลจึงไม่สมบูรณ์
+   * ตัวเลือกในการจัดการกับค่า Missing
+* บทที่ 4 [Data Warehousing and On-line Anaalytical Processing](https://github.com/Umaporn19/DWDM21/blob/main/%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%20Chapter%204%20%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%95%E0%B8%B4%E0%B8%A1.pdf)
+
