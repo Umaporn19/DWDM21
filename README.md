@@ -102,7 +102,7 @@
   * คำสั่ง .head() .tail()
   * Box plot
   * Time Series Plot
-* บทที่ 2 [Data_Preprocessing_(Chapter_3)](https://github.com/Umaporn19/DWDM21/blob/main/Data_Preprocessing_(Chapter_3).ipynb)
+* บทที่ 3 [Data_Preprocessing_(Chapter_3)](https://github.com/Umaporn19/DWDM21/blob/main/Data_Preprocessing_(Chapter_3).ipynb)
   * Meta Data (Data ที่ใช้อธิบาย Data)
   * ชี้ข้อมูลในตาราง
   * ชี้แบบ .iloc[] (มองข้อมูลแบบ matrix)
@@ -133,7 +133,7 @@
   * การบ้าน + ควิซ
   * [PD] save ตารางเอาไปใช้ที่อื่น
   * [PD] การสร้างตาราง
-* บทที่ 6 [Chapter_6_Association_Rules)](https://github.com/Umaporn19/DWDM21/blob/main/Chapter_6_Association_Rules.ipynb)
+* บทที่ 6 [Chapter_6_Association_Rules](https://github.com/Umaporn19/DWDM21/blob/main/Chapter_6_Association_Rules.ipynb)
   * ลบ records ที่ถูก cancel ออกไป
   * การบ้านครั้งที่ 13 วาดกราฟสรุปจำนวน items และ ยอดขายของแต่ละประเทศ
   * เตรียม Data สำหรับ (Fequence Pattern) Association Rule
@@ -169,7 +169,7 @@
   * สร้าง model ทำนาย
   * Train - Test
   * Evalution 
-* บทที่ 8 [Chap_8_Clustering)](https://github.com/Umaporn19/DWDM21/blob/main/Chap_8_Clustering.ipynb)
+* บทที่ 8 [Chap_8_Clustering](https://github.com/Umaporn19/DWDM21/blob/main/Chap_8_Clustering.ipynb)
   * K-means
   * Generat Data
   * Explole data
@@ -182,7 +182,7 @@
   * แทนสีคืนลงไป
   * Hierachical Clustering
   * Clustering Evaluation
-* Data_Visualization [Data_Visualization)](https://github.com/Umaporn19/DWDM21/blob/main/Data_Visualization.ipynb)
+* Data Visualization [Data_Visualization](https://github.com/Umaporn19/DWDM21/blob/main/Data_Visualization.ipynb)
   * Visuliazation
   * Scatter plot
   * Plot
@@ -190,7 +190,7 @@
   * Bar chart
   * Stacked Barchart
   * Histrogram
-* Distance_Numpy [Distance_Numpy](https://github.com/Umaporn19/DWDM21/blob/main/Distance_Numpy.ipynb)
+* Distance Numpy [Distance_Numpy](https://github.com/Umaporn19/DWDM21/blob/main/Distance_Numpy.ipynb)
   * Numpy Array
   * สร้าง numpy array
   * สร้าง matrix เริ่มต้น (zeros,ones)
@@ -209,10 +209,8 @@
   * Quiz 6
   * การบ้านครั้งที่ 11
   * Distance of Binary Value
-
-
-
- 
+* สอบมิดเทอม [MiniExam](https://github.com/Umaporn19/DWDM21/blob/main/MiniExam.ipynb)
+* โปรเจค [Project](https://github.com/Umaporn19/DWDM21/blob/main/Project_New.ipynb) 
 
  
         
