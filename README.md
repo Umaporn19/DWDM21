@@ -210,7 +210,8 @@
   * การบ้านครั้งที่ 11
   * Distance of Binary Value
 * สอบมิดเทอม [MiniExam](https://github.com/Umaporn19/DWDM21/blob/main/MiniExam.ipynb)
-* โปรเจค [Project](https://github.com/Umaporn19/DWDM21/blob/main/Project_New.ipynb) 
+* โปรเจค [Project](https://github.com/Umaporn19/DWDM21/blob/main/Project_New.ipynb)
+* สไลด์ โปรเจค [Slide Project](https://github.com/Umaporn19/DWDM21/blob/main/Slide%20Project.pdf) 
 
  
         
